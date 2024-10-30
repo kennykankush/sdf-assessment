@@ -111,7 +111,7 @@ public class Conversion {
 		if (holiday == false){
 			return "not a holiday.";
 		} else {
-			return "a holiday";
+			return "a holiday.";
 		}
 	}
     
